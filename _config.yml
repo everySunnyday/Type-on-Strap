@@ -1,7 +1,7 @@
 # SITE CONFIGURATION
-baseurl: "/Type-on-Strap"
-url: "https://sylhare.github.io"
-title: Type on Strap # site's title
+baseurl: "/blog"
+url: "https://everySunnyday.github.io"
+title: nice day
 description: "A website with blog posts and pages" # used by search engines
 
 defaults:
@@ -19,7 +19,7 @@ theme_settings:
   favicon: assets/favicon.ico
 
   # Header and footer text
-  header_text: Change header text in <code>_config.yml</code>
+  header_text: Welome to by blog
   header_feature_image: assets/img/pexels/triangular.jpeg
   footer_text: >
     Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
@@ -93,10 +93,10 @@ paginate_path: "blog/page:num"
 
 # AUTHORS
 authors:
-  mhagnumdw: # author-id
-    name: MhagnumDw
+  everySunnyday: # author-id
+    name: everySunnyday
     avatar: "assets/img/avatars/mhagnumdw_avatar.jpg"
-    url: 
+    url: "https://github.com/everySunnyday"
   sylhare:
     name: Sylhare
     avatar: "assets/img/avatars/sylhare_avatar.png"
