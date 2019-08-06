@@ -2,7 +2,7 @@
 baseurl: ""
 url: "https://everySunnyday.github.io"
 title: every sunny day :)
-description: "노는걸 제일 좋아하는 개발자의 일상입니다" # used by search engines
+description: "" # used by search engines
 
 defaults:
   -
